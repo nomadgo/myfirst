@@ -21,7 +21,7 @@ int main() {
             a=x%i;  
             b=y%i;  
             if(a==0 && b==0){  
-                Max=i;   
+                max=i;   
             }             
         }  
         printf("%d\n",Max);  
